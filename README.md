@@ -1,2 +1,3 @@
 # skill-github-les3
-gdmmf,h
+README bijgewerkt op <01 10 2026>
+## Mijn aanpassing
